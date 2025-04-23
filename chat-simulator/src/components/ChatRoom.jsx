@@ -165,12 +165,14 @@ function ChatRoom() {
 
             {/* 선택지 버튼 */}
             {!isEnd && currentScene.choices && !loadingBubble && (
-                <ChoiceButtons
-                    choices={currentScene.choices.map(choice => ({
-                        ...choice,
-                        onClick: () => handleChoice(choice.next, choice.text)
-                    }))}
-                />
+                <div style={{ marginTop: "20px", marginBottom: "40px" }}>
+                    <ChoiceButtons
+                        choices={currentScene.choices.map(choice => ({
+                            ...choice,
+                            onClick: () => handleChoice(choice.next, choice.text)
+                        }))}
+                    />
+                </div>
             )}
         </div>
     );
