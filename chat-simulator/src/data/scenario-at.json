@@ -1,0 +1,42 @@
+{
+  "start": {
+    "character": "앤톤",
+    "message": "안녕! 지금 뭐해?",
+    "choices": [
+      { "text": "너 생각하고 있었지~", "next": "scene1" },
+      { "text": "딱히 아무것도 안 해~", "next": "scene2" }
+    ]
+  },
+  "scene1": {
+    "character": "앤톤",
+    "message": "헉 진짜? 설렌다...",
+    "choices": [
+      { "text": "장난 아니고 진심이야", "next": "ending1" },
+      { "text": "ㅋㅋ 그냥 해본 말", "next": "ending2" }
+    ]
+  },
+  "scene2": {
+    "character": "앤톤",
+    "message": "그럼 나랑 톡하자~",
+    "choices": [
+      { "text": "좋아. 뭐하고 싶어?", "next": "ending3" },
+      { "text": "오히려 좋아ㅋㅋ", "next": "ending4" }
+    ]
+  },
+  "ending1": {
+    "character": "앤톤",
+    "message": "진짜 고백받은 느낌이야..."
+  },
+  "ending2": {
+    "character": "앤톤",
+    "message": "에이~ 나 혼자 설렜잖아 ㅠ"
+  },
+  "ending3": {
+    "character": "앤톤",
+    "message": "그냥 이렇게 얘기하는 것도 좋아 :)"
+  },
+  "ending4": {
+    "character": "앤톤",
+    "message": "ㅋㅋ 오히려 좋아 각"
+  }
+}

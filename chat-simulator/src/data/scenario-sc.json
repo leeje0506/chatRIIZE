@@ -1,0 +1,61 @@
+
+{
+  "start": {
+    "character": "성찬",
+    "message": "뭐해?",
+    "choices": [
+      {
+        "text": "침대에 누워서 핸드폰 하는 중! 너는?",
+        "next": "scene1"
+      },
+      {
+        "text": "그냥 멍때리고 있어ㅋㅋ 너는 뭐해?",
+        "next": "scene2"
+      }
+    ]
+  },
+  "scene1": {
+    "character": "성찬",
+    "message": "나 그냥 이썽",
+    "choices": [
+      {
+        "text": "심심하면 전화할래?",
+        "next": "ending1"
+      },
+      {
+        "text": "그럼 좀 자라~",
+        "next": "ending2"
+      }
+    ]
+  },
+  "scene2": {
+    "character": "성찬",
+    "message": "나도 멍때리는 중ㅋㅋ",
+    "choices": [
+      {
+        "text": "우리 둘 다 멍이네ㅋㅋ",
+        "next": "ending3"
+      },
+      {
+        "text": "같이 게임할래?",
+        "next": "ending4"
+      }
+    ]
+  },
+  "ending1": {
+    "character": "성찬",
+    "message": "좋아~ 너 목소리 듣고 싶었어!"
+  },
+  "ending2": {
+    "character": "성찬",
+    "message": "ㅋㅋ 너도 얼른 자라~"
+  },
+  "ending3": {
+    "character": "성찬",
+    "message": "우리 멍친구 하자ㅋㅋ"
+  },
+  "ending4": {
+    "character": "성찬",
+    "message": "좋아! 롤 들어와~"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "start": {
+    "character": "은석",
+    "message": "오늘 하루 어땠어?",
+    "choices": [
+      { "text": "완전 최악이었지…", "next": "scene1" },
+      { "text": "나름 괜찮았어!", "next": "scene2" }
+    ]
+  },
+  "scene1": {
+    "character": "은석",
+    "message": "헉 왜? 무슨 일 있었어?",
+    "choices": [
+      { "text": "그냥 스트레스가 많았어", "next": "ending1" },
+      { "text": "너랑 얘기하니까 괜찮아졌어", "next": "ending2" }
+    ]
+  },
+  "scene2": {
+    "character": "은석",
+    "message": "오~ 다행이다. 혹시 특별한 일 있었어?",
+    "choices": [
+      { "text": "응! 좋은 소식 있었어", "next": "ending3" },
+      { "text": "그냥 평범했어~", "next": "ending4" }
+    ]
+  },
+  "ending1": {
+    "character": "은석",
+    "message": "힘들었겠다… 오늘은 푹 쉬어!"
+  },
+  "ending2": {
+    "character": "은석",
+    "message": "내가 조금이라도 위로가 됐다니 기뻐 :)"
+  },
+  "ending3": {
+    "character": "은석",
+    "message": "우와! 나도 기분 좋아진다!"
+  },
+  "ending4": {
+    "character": "은석",
+    "message": "평범한 하루가 제일 소중한 거야~"
+  }
+}
