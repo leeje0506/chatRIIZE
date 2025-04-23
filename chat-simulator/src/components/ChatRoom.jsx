@@ -68,7 +68,7 @@ function ChatRoom() {
             display: "flex",
             flexDirection: "column"
         }}>
-            <h2>{character}와의 대화</h2>
+            <h2>{character}과의 대화</h2>
 
             <div
                 ref={chatContainerRef}
