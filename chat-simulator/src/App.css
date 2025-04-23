@@ -13,15 +13,16 @@ h2 {
 }
 
 @keyframes fadeInUp {
-  0% {
+  from {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateY(10px);
   }
-  100% {
+  to {
     opacity: 1;
     transform: translateY(0);
   }
 }
+
 
 .dot-typing::after {
   content: '...';
@@ -42,3 +43,16 @@ h2 {
     content: '...';
   }
 }
+
+.dot-typing {
+  font-size: 24px;
+  animation: blink 1s infinite;
+  font-family: monospace;
+  letter-spacing: 4px;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 0.2; }
+  50% { opacity: 1; }
+}
+

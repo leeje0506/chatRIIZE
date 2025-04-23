@@ -99,34 +99,42 @@
   },
   "scene7": {
     "character": "앤톤",
-    "message": "믿어줘서 고마워. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "믿어줘서 고마워. 얼른 보고싶다~ 우리 빨리 만나자!",
+    "image": "endings/ending-at2.jpg"
   },
   "scene8": {
     "character": "앤톤",
-    "message": "그럼 지금부터 생각할게~ 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "그럼 지금부터 생각할게~ 얼른 보고싶다~ 우리 빨리 만나자ㅎㅎ..",
+    "image": "endings/ending-at2.jpg"
   },
   "scene9": {
     "character": "앤톤",
-    "message": "너도 내게 큰 힘이야. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "너도 내게 큰 힘이야. 얼른 보고싶다~ 우리 빨리 만나자ㅎㅎ..",
+    "image": "endings/ending-at1.jpg"
   },
   "scene10": {
     "character": "앤톤",
-    "message": "너가 있어서 나도 따뜻해져. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "너가 있어서 나도 따뜻해져. 얼른 보고싶다~ 우리 빨리 만나자ㅎㅎ..",
+    "image": "endings/ending-at3.jpg"
   },
   "scene11": {
     "character": "앤톤",
-    "message": "좋아! 바로 걸자~ 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "좋아! 바로 걸자~ 얼른 보고싶다~ 우리 빨리 만나자ㅎㅎ..",
+    "image": "endings/ending-at4.jpg"
   },
   "scene12": {
     "character": "앤톤",
-    "message": "응! 진심으로 기다릴게. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "응! 진심으로 기다릴게. 얼른 보고싶다~ 우리 빨리 만나자ㅎㅎ..",
+    "image": "endings/ending-at4.jpg"
   },
   "scene13": {
     "character": "앤톤",
-    "message": "진짜? 약속이야! 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "진짜? 약속이야! 얼른 보고싶다~ 우리 빨리 만나자ㅎㅎ..",
+    "image": "endings/ending-at1.jpg"
   },
   "scene14": {
     "character": "앤톤",
-    "message": "그 말 너무 좋아… 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "그 말 너무 좋아… 얼른 보고싶다~ 우리 빨리 만나자ㅎㅎ..",
+    "image": "endings/ending-at3.jpg"
   }
 }

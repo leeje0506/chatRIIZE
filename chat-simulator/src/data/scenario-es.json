@@ -99,34 +99,42 @@
   },
   "scene7": {
     "character": "은석",
-    "message": "그럼 확실하게 말할게. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "그럼 확실하게 말할게. 얼른 보고싶다~ 우리 빨리 만나자",
+    "image": "endings/ending-es4.jpg"
   },
   "scene8": {
     "character": "은석",
-    "message": "이 운명, 놓치지 말자! 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "이 운명, 놓치지 말자! 얼른 보고싶다~ 우리 빨리 만나자",
+    "image": "endings/ending-es4.jpg"
   },
   "scene9": {
     "character": "은석",
-    "message": "나만 알고 있을게ㅋㅋ 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "나만 알고 있을게ㅋㅋ 얼른 보고싶다~ 우리 빨리 만나자",
+    "image": "endings/ending-es2.jpg"
   },
   "scene10": {
     "character": "은석",
-    "message": "귀엽다니까 너 진짜~ 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "귀엽다니까 너 진짜~ 얼른 보고싶다~ 우리 빨리 만나자",
+    "image": "endings/ending-es3.jpg"
   },
   "scene11": {
     "character": "은석",
-    "message": "오케이 접수완료ㅋㅋ 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "오케이 접수완료ㅋㅋ 얼른 보고싶다~ 우리 빨리 만나자",
+    "image": "endings/ending-es2.jpg"
   },
   "scene12": {
     "character": "은석",
-    "message": "그럼 나 혼자 오해한 걸로~ 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "그럼 나 혼자 오해한 걸로~ 얼른 보고싶다~ 우리 빨리 만나자",
+    "image": "endings/ending-es3.jpg"
   },
   "scene13": {
     "character": "은석",
-    "message": "말했지? 너한테만 그래. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "말했지? 너한테만 그래. 얼른 보고싶다~ 우리 빨리 만나자",
+    "image": "endings/ending-es1.jpg"
   },
   "scene14": {
     "character": "은석",
-    "message": "당황한 너 표정 보고 싶다ㅋㅋ 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "당황한 너 표정 보고 싶다ㅋㅋ 얼른 보고싶다~ 우리 빨리 만나자",
+    "image": "endings/ending-es4.jpg"
   }
 }

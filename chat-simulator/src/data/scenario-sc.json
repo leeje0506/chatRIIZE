@@ -99,34 +99,42 @@
   },
   "scene7": {
     "character": "성찬",
-    "message": "얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "얼른 보고싶다~ 우리 빨리 만나자!",
+    "image": "endings/ending-sc2.jpg"
   },
   "scene8": {
     "character": "성찬",
-    "message": "그래도 너랑 같이 보면 재밌을 것 같아. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "그래도 너랑 같이 보면 재밌을 것 같아. 얼른 보고싶다~ 우리 빨리 만나자!",
+    "image": "endings/ending-sc3.jpg"
   },
   "scene9": {
     "character": "성찬",
-    "message": "나 진짜 파스타 좋아하는데... 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "나 진짜 파스타 좋아하는데... 얼른 보고싶다~ 우리 빨리 만나자!",
+    "image": "endings/ending-sc1.jpg"
   },
   "scene10": {
     "character": "성찬",
-    "message": "든든하게 챙겨주는 네 밥, 상상만 해도 좋아. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "든든하게 챙겨주는 네 밥, 상상만 해도 좋아. 얼른 보고싶다~ 우리 빨리 만나자!",
+    "image": "endings/ending-sc1.jpg"
   },
   "scene11": {
     "character": "성찬",
-    "message": "네게 그런 존재가 되고 싶었어. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "네게 그런 존재가 되고 싶었어. 얼른 보고싶다~ 우리 빨리 만나자!",
+    "image": "endings/ending-sc4.jpg"
   },
   "scene12": {
     "character": "성찬",
-    "message": "정말 대단해. 너는 항상 멋져. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "정말 대단해. 너는 항상 멋져. 얼른 보고싶다~ 우리 빨리 만나자!",
+    "image": "endings/ending-sc2.jpg"
   },
   "scene13": {
     "character": "성찬",
-    "message": "나도 네가 있어서 다행이야. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "나도 네가 있어서 다행이야. 얼른 보고싶다~ 우리 빨리 만나자!",
+    "image": "endings/ending-sc5.jpg"
   },
   "scene14": {
     "character": "성찬",
-    "message": "언제나 편히 쉬러 와. 얼른 보고싶다~ 우리 빨리 만나자!"
+    "message": "언제나 편히 쉬러 와. 얼른 보고싶다~ 우리 빨리 만나자!",
+    "image": "endings/ending-sc2.jpg"
   }
 }
