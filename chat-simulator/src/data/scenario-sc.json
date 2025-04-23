@@ -1,61 +1,132 @@
-
 {
   "start": {
     "character": "성찬",
-    "message": "뭐해?",
+    "message": "요즘 어때? 잘 지내고 있어?",
     "choices": [
       {
-        "text": "침대에 누워서 핸드폰 하는 중! 너는?",
+        "text": "응! 나름 괜찮아~",
         "next": "scene1"
       },
       {
-        "text": "그냥 멍때리고 있어ㅋㅋ 너는 뭐해?",
+        "text": "조금 지쳤어ㅠ",
         "next": "scene2"
       }
     ]
   },
   "scene1": {
     "character": "성찬",
-    "message": "나 그냥 이썽",
+    "message": "그래도 너 웃는 거 보면 안심돼. 요즘 뭐에 빠졌어?",
     "choices": [
       {
-        "text": "심심하면 전화할래?",
-        "next": "ending1"
+        "text": "드라마 정주행 중이야!",
+        "next": "scene3"
       },
       {
-        "text": "그럼 좀 자라~",
-        "next": "ending2"
+        "text": "요리하는 재미에 빠졌어!",
+        "next": "scene4"
       }
     ]
   },
   "scene2": {
     "character": "성찬",
-    "message": "나도 멍때리는 중ㅋㅋ",
+    "message": "무슨 일 있었어? 이야기해줘. 내가 들어줄게.",
     "choices": [
       {
-        "text": "우리 둘 다 멍이네ㅋㅋ",
-        "next": "ending3"
+        "text": "그냥 일이 많았어",
+        "next": "scene5"
       },
       {
-        "text": "같이 게임할래?",
-        "next": "ending4"
+        "text": "사람들한테 치여서 좀 그랬어",
+        "next": "scene6"
       }
     ]
   },
-  "ending1": {
+  "scene3": {
     "character": "성찬",
-    "message": "좋아~ 너 목소리 듣고 싶었어!"
+    "message": "무슨 드라마야? 재밌겠다~ 다음에 나도 같이 볼래!",
+    "choices": [
+      {
+        "text": "완전 좋아! 같이 보자",
+        "next": "scene7"
+      },
+      {
+        "text": "넌 이런 장르 안 좋아하지 않아?",
+        "next": "scene8"
+      }
+    ]
   },
-  "ending2": {
+  "scene4": {
     "character": "성찬",
-    "message": "ㅋㅋ 너도 얼른 자라~"
+    "message": "와~ 나도 네 요리 먹어보고 싶다. 뭐 잘 만들어?",
+    "choices": [
+      {
+        "text": "파스타는 자신 있어!",
+        "next": "scene9"
+      },
+      {
+        "text": "밥반찬 위주로 해~",
+        "next": "scene10"
+      }
+    ]
   },
-  "ending3": {
+  "scene5": {
     "character": "성찬",
-    "message": "우리 멍친구 하자ㅋㅋ"
+    "message": "많이 힘들었겠다... 그래도 여기 와줘서 고마워 :)",
+    "choices": [
+      {
+        "text": "너랑 이야기하면 마음이 편해져",
+        "next": "scene11"
+      },
+      {
+        "text": "그래도 버틸 수 있었어",
+        "next": "scene12"
+      }
+    ]
   },
-  "ending4": {
+  "scene6": {
     "character": "성찬",
-    "message": "좋아! 롤 들어와~"
+    "message": "그래도 너한텐 내가 있잖아. 여기서만큼은 편해지자!",
+    "choices": [
+      {
+        "text": "고마워 성찬아",
+        "next": "scene13"
+      },
+      {
+        "text": "그래서 더 좋다 여긴",
+        "next": "scene14"
+      }
+    ]
+  },
+  "scene7": {
+    "character": "성찬",
+    "message": "얼른 보고싶다~ 우리 빨리 만나자!"
+  },
+  "scene8": {
+    "character": "성찬",
+    "message": "그래도 너랑 같이 보면 재밌을 것 같아. 얼른 보고싶다~ 우리 빨리 만나자!"
+  },
+  "scene9": {
+    "character": "성찬",
+    "message": "나 진짜 파스타 좋아하는데... 얼른 보고싶다~ 우리 빨리 만나자!"
+  },
+  "scene10": {
+    "character": "성찬",
+    "message": "든든하게 챙겨주는 네 밥, 상상만 해도 좋아. 얼른 보고싶다~ 우리 빨리 만나자!"
+  },
+  "scene11": {
+    "character": "성찬",
+    "message": "네게 그런 존재가 되고 싶었어. 얼른 보고싶다~ 우리 빨리 만나자!"
+  },
+  "scene12": {
+    "character": "성찬",
+    "message": "정말 대단해. 너는 항상 멋져. 얼른 보고싶다~ 우리 빨리 만나자!"
+  },
+  "scene13": {
+    "character": "성찬",
+    "message": "나도 네가 있어서 다행이야. 얼른 보고싶다~ 우리 빨리 만나자!"
+  },
+  "scene14": {
+    "character": "성찬",
+    "message": "언제나 편히 쉬러 와. 얼른 보고싶다~ 우리 빨리 만나자!"
   }
 }
