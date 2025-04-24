@@ -32,6 +32,7 @@ RIIZE 멤버들과 감정선 기반 대화를 나눠보는 시뮬레이터입니
 | **언어**     | JavaScript                           |
 | **라이브러리** | React, React Router DOM             |
 | **스타일링**  | CSS (inline style), emoji 활용       |
+| **사운드**  | [mixkit](https://mixkit.co/free-sound-effects/discover/message/) 활용       |
 | **배포**     | [Vercel](https://vercel.com/)        |
 | **기타**     | GitHub Pages 프리뷰 이미지 / 리다이렉트 없음 |
 
