@@ -4,10 +4,10 @@ RIIZE 멤버들과 감정선 기반 대화를 나눠보는 시뮬레이터입니
 
 ## 🖼️ 시뮬레이터 미리보기** 👇
 
-<img src="https://github.com/leeje0506/chatRIIZE/blob/main/public/images/readme/1.png?raw=true" width="300" />
-<img src="https://github.com/leeje0506/chatRIIZE/blob/main/public/images/readme/2.png?raw=true" width="300" />
-<img src="https://github.com/leeje0506/chatRIIZE/blob/main/public/images/readme/3.png?raw=true" width="300" />
-<img src="https://github.com/leeje0506/chatRIIZE/blob/main/public/images/readme/4.png?raw=true" width="300" />
+<img src="https://raw.githubusercontent.com/leeje0506/chatRIIZE/main/public/images/readme/1.png" width="300" />
+<img src="https://raw.githubusercontent.com/leeje0506/chatRIIZE/main/public/images/readme/2.png" width="300" />
+<img src="https://raw.githubusercontent.com/leeje0506/chatRIIZE/main/public/images/readme/3.png" width="300" />
+<img src="https://raw.githubusercontent.com/leeje0506/chatRIIZE/main/public/images/readme/4.png" width="300" />
 
 ### 🔁 다시 시작도 가능!
 
